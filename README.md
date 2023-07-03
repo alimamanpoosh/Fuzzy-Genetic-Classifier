@@ -2,8 +2,6 @@
 
 ## Genetic Fuzzy System for SMS Spam Detection
 
-![Spam Detection](spam_detection.png)
-
 ### Description
 
 This project implements a genetic fuzzy system for SMS spam detection. The system uses a genetic algorithm to evolve fuzzy rules that determine whether an SMS message is legitimate (ham) or spam. It applies feature selection and reduction techniques on the SMS dataset and evolves fuzzy rules based on linguistic variables and fuzzy sets. The fitness of each chromosome is evaluated using the accuracy of spam detection on the test data. The system aims to find optimal fuzzy rules for SMS spam detection.
