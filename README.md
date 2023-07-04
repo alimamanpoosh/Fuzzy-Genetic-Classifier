@@ -1,4 +1,4 @@
-# CI_P3(Fuzzy Genetic Classifier)
+# Fuzzy Genetic Classifier(CI_P3)
 
 ## Genetic Fuzzy System for SMS Spam Detection
 
