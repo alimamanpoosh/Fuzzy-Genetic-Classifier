@@ -19,7 +19,7 @@ This project implements a genetic fuzzy system for SMS spam detection. The syste
 1. Clone this repository:
 
 ```
-git clone https://github.com/your_username/your_project.git
+git clone https://github.com/alimamanpoosh/Fuzzy-Genetic-Classifier.git
 cd your_project
 ```
 
